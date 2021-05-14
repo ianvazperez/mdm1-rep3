@@ -16,7 +16,7 @@ Group 3
 
 [3] Rhonda Hadi  Andrew T. Stephen Gil Appel, Lauren Grewal.  The future of social mediain marketing, 2021.https://link.springer.com/article/10.1007/s11747-019-00695-1#Sec17date accessed 13/05/2021.
 
-[4] H.S. Rodrigues. Application of sir epidemiological model: new trends, 2016. Business School,Viana do Castelo Polytechnic Institute, and CIDMA - Center for Research and Development inMathematics and Applications, university of Aveiro, Portugal.
+[4] H.S. Rodrigues. Application of SIR epidemiological model: new trends, 2016. Business School,Viana do Castelo Polytechnic Institute, and CIDMA - Center for Research and Development inMathematics and Applications, university of Aveiro, Portugal.
 
 [5] Spechler J.A. Cannarella, J. Epidemiological modeling of online social network dynamics, 2014.https://arxiv.org/abs/1402.1225v2.
 
